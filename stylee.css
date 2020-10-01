@@ -1,13 +1,13 @@
 .dib {
-  padding-top: 70px;
+  padding-top: 80px;
   background-color: #F8F8FF;
   text-align: center;
   position: relative;
 }
 
 .image-clouds {
-  width: 150px;
-  height: 100px;
+  width: 250px;
+  height: 200px;
 }
 
 .image-mountain {
@@ -116,8 +116,8 @@ hr
   text-align: center;
   line-height: 50px;
   background-color: #fff7ca;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 .contacth2
 {
